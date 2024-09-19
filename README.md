@@ -30,13 +30,15 @@ This repository contains the R code, data, and codebooks for a research study in
 
 The codebooks folder includes the following files:
 
-* **pbl_codebook_21st_century_skills.pdf:** Provides detailed descriptions of the variables in the `pbl_microdata_21st_century_skills.csv` dataset.
-* **pbl_codebook_language_posttest.pdf:** Provides detailed descriptions of the variables in the `pbl_microdata_language_posttest.csv` dataset.
-* **pbl_codebook_language_pretest.pdf:** Provides detailed descriptions of the variables in the `pbl_microdata_language_pretest.csv` dataset.
-* **pbl_codebook_math_posttest.pdf:** Provides detailed descriptions of the variables in the `pbl_microdata_math_posttest.csv` dataset.
-* **pbl_codebook_math_pretest.pdf:** Provides detailed descriptions of the variables in the `pbl_microdata_math_pretest.csv` dataset.
-* **pbl_codebook_science_posttest.pdf:** Provides detailed descriptions of the variables in the `pbl_microdata_science_posttest.csv` dataset.
-* **pbl_codebook_science_pretest.pdf:** Provides detailed descriptions of the variables in the `pbl_microdata_science_pretest.csv` dataset.
+* **pbl_codebook_21st_century_skills.pdf:** Provides descriptions of the variables in the `pbl_microdata_21st_century_skills.csv` dataset.
+* **pbl_codebook_language_posttest.pdf:** Provides descriptions of the variables in the `pbl_microdata_language_posttest.csv` dataset.
+* **pbl_codebook_language_pretest.pdf:** Provides descriptions of the variables in the `pbl_microdata_language_pretest.csv` dataset.
+* **pbl_codebook_math_posttest.pdf:** Provides descriptions of the variables in the `pbl_microdata_math_posttest.csv` dataset.
+* **pbl_codebook_math_pretest.pdf:** Provides descriptions of the variables in the `pbl_microdata_math_pretest.csv` dataset.
+* **pbl_codebook_science_posttest.pdf:** Provides descriptions of the variables in the `pbl_microdata_science_posttest.csv` dataset.
+* **pbl_codebook_science_pretest.pdf:** Provides descriptions of the variables in the `pbl_microdata_science_pretest.csv` dataset.
+
+The codebooks were created using the function `Survey logic file` in LimeSurvey
 
 ## Usage
 
