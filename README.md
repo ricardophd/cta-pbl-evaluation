@@ -24,7 +24,12 @@ This repository contains the R code, data, and codebooks for a research study in
 
 ## R Code
 
-* **R_code:** Contains the R scripts used for data preparation, analysis, visualization, and statistical analyses.
+* **R_code:** Contains the R scripts used for data preparation, analysis, visualization, and statistical analyses. It contains the following scripts:
+
+* **lenguaje_pretest_posttest_analysis.R:** Analyzes the language pretest and posttest data.
+* **math_pretest_posttest_analysis.R:** Analyzes the math pretest and posttest data.
+* **science_pretest_posttest_analysis.R:** Analyzes the science pretest and posttest data.
+* **student_21st_century_skills_analysis.R:** Analyzes the 21st-century skills data.
 
 ## Codebooks
 
